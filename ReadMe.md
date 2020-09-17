@@ -5,7 +5,7 @@
 
 Hi, I'm Tim, a Fullstack student passionate about web development
 
-- 📚 I’m currently learning Javascript, Node.js, React.
+- 📚 I’m currently learning Javascript, Node.js, React. (Working on [Black Sand](https://marketplace.visualstudio.com/items?itemName=TimBogdanov.black-sand))
 - 🖥 Techs: <img height="20" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg">
   <img height="20" src="https://devicon.dev/devicon.git/icons/express/express-original.svg">
   <img height="20" src="https://devicon.dev/devicon.git/icons/react/react-original.svg">
