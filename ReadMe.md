@@ -7,5 +7,5 @@
 
 <p align="center">
 <a href="https://dev.to/timbogdanov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="timbogdanov" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/timbogdanov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="timbogdanov" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/tim-bogdanov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="timbogdanov" height="20" width="20" /></a>
 </p>
