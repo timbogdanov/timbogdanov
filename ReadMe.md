@@ -1,16 +1,11 @@
-## Tim Bogdanov
+<h1 align="center">Hello 👋, I'm Tim</h1>
+<h3 align="center">Developer with a focus on Full-Stack Web Applications.</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.tim.the.bogdanov@gmail.com)](mailto:tim.the.bogdanov@gmail.com)
-[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/weltonfelix)](https://dev.to/timbogdanov)
+- 📚 I’m currently learning Javascript, Node.js, React. (Working on Black Sand)
 
-Hi, I'm Tim, a Fullstack student passionate about web development
+- 📍 Interests: Web Development, UX, UI Design
 
-- 📚 I’m currently learning Javascript, Node.js, React. (Working on [Black Sand](https://marketplace.visualstudio.com/items?itemName=TimBogdanov.black-sand))
-- 🖥 Techs: <img height="20" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg">
-  <img height="20" src="https://devicon.dev/devicon.git/icons/express/express-original.svg">
-  <img height="20" src="https://devicon.dev/devicon.git/icons/react/react-original.svg">
-  <img height="20" src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg"> <img height="20" src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg">
-
-- 📍 Interests: UX, UI Design
-
-⭐️ From [timbogdanov](https://github.com/timbogdanov)
+<p align="center">
+<a href="https://dev.to/timbogdanov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="timbogdanov" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/timbogdanov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="timbogdanov" height="20" width="20" /></a>
+</p>
