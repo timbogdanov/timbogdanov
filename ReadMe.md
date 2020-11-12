@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Tim</h1>
 <h3 align="center">Developer with a focus on Full-Stack Web Applications.</h3>
 
-📚 I’m currently learning Javascript, Node.js, React. (Working on [Black Sand](https://marketplace.visualstudio.com/items?itemName=TimBogdanov.black-sand))
+📚 Techstack: Javascript, Node.js/Express, React/Redux. (Working on [Black Sand](https://marketplace.visualstudio.com/items?itemName=TimBogdanov.black-sand))
 
 📍 Interests: Web Development, UX, UI Design
 
